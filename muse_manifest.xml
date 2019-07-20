@@ -1,0 +1,38 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="google.com" resolutions="1x" timestamp="1563581713025">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="357523199" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u101.php" crc="62729816" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u94-4.png" crc="262113417" ref="index"/>
+    <file name="logo-instagram-png-13549.png" crc="236782034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u181-4.png" crc="280047453" ref="index"/>
+    <file name="twitter-png-5964.png" crc="70872298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u195-4.png" crc="4083911145" ref="index"/>
+    <file name="facebook-logo-png-9007.png" crc="3850091350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u209-4.png" crc="3811738332" ref="index"/>
+    <file name="flickr-logo-png-8780.png" crc="3951380481" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3812161303" seo="true" mt="1563581469873" redirect="true"/>
+</manifest>
