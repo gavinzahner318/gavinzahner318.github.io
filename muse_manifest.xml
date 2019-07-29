@@ -1,38 +1,53 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="google.com" resolutions="1x" timestamp="1563581713025">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="google.com" resolutions="1x" timestamp="1564409091863">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="357523199" ref="index"/>
+    <file name="index.css" crc="3969908816" ref="index"/>
+    <file name="test.css" crc="4193191577" ref="test"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:test"/>
+    <file name="museutils.js" crc="4232573551" ref="index:test"/>
+    <file name="whatinput.js" crc="86476730" ref="index:test"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:test"/>
     <file name="webpro.js" crc="3770351119" ref="index"/>
-    <file name="form_check.php" crc="3841221102" ref="index"/>
-    <file name="form_throttle.php" crc="4048049783" ref="index"/>
-    <file name="form_process.php" crc="3899230280" ref="index"/>
-    <file name="form-u101.php" crc="62729816" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:test"/>
+    <file name="require.js" crc="4234670167" ref="index:test"/>
   </folder>
   <folder name="images">
+    <file name="cactus-crop-u426.jpg" crc="410727275" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="road-crop-u422.jpg" crc="4113390843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u424.jpg" crc="468943280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="u94-4.png" crc="262113417" ref="index"/>
     <file name="logo-instagram-png-13549.png" crc="236782034" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u181-4.png" crc="280047453" ref="index"/>
+    <file name="u181-4.png" crc="18333124" ref="index"/>
     <file name="twitter-png-5964.png" crc="70872298" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u195-4.png" crc="4083911145" ref="index"/>
+    <file name="u195-4.png" crc="84484065" ref="index"/>
     <file name="facebook-logo-png-9007.png" crc="3850091350" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u209-4.png" crc="3811738332" ref="index"/>
+    <file name="u209-4.png" crc="167576693" ref="index"/>
     <file name="flickr-logo-png-8780.png" crc="3951380481" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="dsc_0076 - version 2-l.jpg" crc="3936234277" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3812161303" seo="true" mt="1563581469873" redirect="true"/>
+  <file name="index.html" crc="3903055130" seo="true" mt="1564408997804" redirect="true"/>
+  <file name="test.html" crc="498452086" seo="true" mt="1564408568631" redirect="false"/>
 </manifest>

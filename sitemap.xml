@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://google.com/index.html</loc>
-    <lastmod>2019-07-19</lastmod>
+    <lastmod>2019-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://google.com/images/cactus-crop-u426.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://google.com/images/road-crop-u422.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://google.com/images/trees-crop-u424.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://google.com/images/logo-instagram-png-13549.png</image:loc>
     </image:image>
@@ -17,5 +26,14 @@
     <image:image>
       <image:loc>http://google.com/images/flickr-logo-png-8780.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://google.com/images/dsc_0076%20-%20version%202-l.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://google.com/test.html</loc>
+    <lastmod>2019-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
