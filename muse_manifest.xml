@@ -1,16 +1,16 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gavinzahner318.github.io" resolutions="1x" timestamp="1564410492324">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gavinzahner318.github.io" resolutions="1x" timestamp="1564410910276">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="4294003487" ref="index"/>
     <file name="test.css" crc="4193191577" ref="test"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:test"/>
-    <file name="museutils.js" crc="4232573551" ref="index:test"/>
-    <file name="whatinput.js" crc="86476730" ref="index:test"/>
-    <file name="museconfig.js" crc="3849126041" ref="index:test"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:test"/>
-    <file name="require.js" crc="4234670167" ref="index:test"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>test:tablet>index:tablet>test:index:test"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>test:tablet>index:tablet>test:index:test"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>test:tablet>index:tablet>test:index:test"/>
+    <file name="museconfig.js" crc="3849126041" ref="phone>index:phone>test:tablet>index:tablet>test:index:test"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>test:tablet>index:tablet>test:index:test"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>test:tablet>index:tablet>test:index:test"/>
   </folder>
   <folder name="images">
     <file name="dscn2729-2.jpg" crc="3841303116" seo="true" ref="index">
@@ -39,6 +39,22 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3785338626" seo="true" mt="1564410464977" redirect="true"/>
-  <file name="test.html" crc="498452086" seo="true" mt="1564408568631" redirect="false"/>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="test.css" crc="4021538510" ref="tablet>test"/>
+      <file name="index.css" crc="3914356862" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3949074482" seo="true" mt="1564410863315" redirect="false"/>
+    <file name="test.html" crc="3862637326" seo="true" mt="1564410863316" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="94348819" ref="phone>index"/>
+      <file name="test.css" crc="62426684" ref="phone>test"/>
+    </folder>
+    <file name="index.html" crc="3945539167" seo="true" mt="1564410862861" redirect="false"/>
+    <file name="test.html" crc="4128152484" seo="true" mt="1564410862948" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="3785338626" seo="true" mt="1564410863155" redirect="true"/>
+  <file name="test.html" crc="498452086" seo="true" mt="1564410863249" redirect="false"/>
 </manifest>
